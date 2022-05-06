@@ -1,0 +1,7 @@
+A={1:['SACHIN','male','MPAIR','pass'],2:['kavya','female','mccs','pass'],3:['DHANU','male','mccs','pass'],4:['SAI','male','MPAIR','pass']}
+x=int(input('enter the student number:'))
+print(x)
+print('name of the person:',A[1][0])
+print('gender:',A[1][1])
+print('Group:',A[1][2])
+print('result',A[1][3])
